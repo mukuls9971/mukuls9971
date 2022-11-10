@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+Software Engineer and Technical Architect
+
+A Computer Science Graduate from IIT-Delhi with 10+ years of experience in the Industry. Leading teams for 5+ years. Expertise in technical architecture and design of projects, designing data pipelines, and helping companies use technology to add value to their business.
+
+As a part of the engineering team at Skyflow, working on data privacy vault APIs that deliver
+security, compliance, residency, and more. As Technical Architect at Authbridge, I worked in the data science field and developed ETL pipelines which have improved the manpower requirement by 75% and accuracy by 95%. Earlier I worked in various data-science roles in the Agriculture domain (Farmguide) and fintech domains (Sentieo). I have good experience with blockchain technology and smart contracts (NEAR blockchain).
+
 <!--
 **mukuls9971/mukuls9971** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
